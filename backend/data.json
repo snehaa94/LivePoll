@@ -1,0 +1,48 @@
+{
+  "polls": [
+    {
+      "_id": "813379c0-8aac-408c-985a-533389f9f097",
+      "question": "helooooooo",
+      "options": [
+        {
+          "id": 1,
+          "text": "Yes",
+          "correct": true,
+          "votes": 1
+        },
+        {
+          "id": 2,
+          "text": "s",
+          "correct": false,
+          "votes": 0
+        }
+      ],
+      "timer": 60,
+      "teacherUsername": "teacher_1758835564123",
+      "createdAt": "2025-09-25T21:26:19.067Z",
+      "closed": false
+    },
+    {
+      "_id": "73939f5a-5916-44f5-90e2-7fbebefa605d",
+      "question": "how r u?",
+      "options": [
+        {
+          "id": 1,
+          "text": "fine",
+          "correct": true,
+          "votes": 0
+        },
+        {
+          "id": 2,
+          "text": "good",
+          "correct": false,
+          "votes": 2
+        }
+      ],
+      "timer": 60,
+      "teacherUsername": "teacher_1758835564123",
+      "createdAt": "2025-09-25T21:27:10.944Z",
+      "closed": false
+    }
+  ]
+}
