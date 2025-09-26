@@ -1,10 +1,10 @@
 import { BrowserRouter, Route, Routes } from "react-router-dom";
-import LoginPage from "./Pages/loginPage/LoginPage";
-import TeacherLandingPage from "./Pages/teacher-landing/TeacherLandingPage";
-import StudentLandingPage from "./Pages/student-landing/StudentLandingPage";
-import StudentPollPage from "./Pages/student-poll/StudentPollPage";
-import TeacherPollPage from "./Pages/teacher-poll/TeacherPollPage";
-import PollHistoryPage from "./pages/poll-history/Poll-history";
+import LoginPage from "./pages/Login/LoginPage";
+import TeacherLandingPage from "./pages/teachers-landing/TeacherLandingPage";
+import StudentLandingPage from "./pages/students-landing/StudentLandingPage";
+import StudentPollPage from "./pages/students-poll/StudentPollPage";
+import TeacherPollPage from "./pages/teachers-poll/TeacherPollPage";
+import PollHistoryPage from "./pages/poll-historyy/Poll-history";
 import TeacherProtectedRoute from "./components/route-project/TeacherProtect";
 import StudentProtectedRoute from "./components/route-project/StudentProtect";
 

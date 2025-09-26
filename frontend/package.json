@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
+    "start": "serve -s dist -l 0",
     "lint": "eslint .",
     "preview": "vite preview"
   },
@@ -19,7 +20,8 @@
     "react-dom": "^19.1.1",
     "react-router-dom": "^7.9.2",
     "socket.io-client": "^4.8.1",
-    "tailwindcss": "^4.1.13"
+    "tailwindcss": "^4.1.13",
+    "serve": "^14.2.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.36.0",

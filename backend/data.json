@@ -43,6 +43,74 @@
       "teacherUsername": "teacher_1758835564123",
       "createdAt": "2025-09-25T21:27:10.944Z",
       "closed": false
+    },
+    {
+      "_id": "dc7a654e-6f13-448d-9391-ad0331474985",
+      "question": "Which of the following is a JavaScript framework primarily used for building user interfaces?",
+      "options": [
+        {
+          "id": 1,
+          "text": "Django",
+          "correct": false,
+          "votes": 1
+        },
+        {
+          "id": 2,
+          "text": "React",
+          "correct": true,
+          "votes": 2
+        },
+        {
+          "id": 3,
+          "text": "Flask",
+          "correct": false,
+          "votes": 0
+        },
+        {
+          "id": 4,
+          "text": "Laravel",
+          "correct": false,
+          "votes": 0
+        }
+      ],
+      "timer": 60,
+      "teacherUsername": "teacher_1758836659635",
+      "createdAt": "2025-09-25T21:45:47.477Z",
+      "closed": false
+    },
+    {
+      "_id": "586aad57-537b-4a7d-852c-6c12c662e007",
+      "question": "In CSS, which property is used to change the text color of an element?",
+      "options": [
+        {
+          "id": 1,
+          "text": "font-style",
+          "correct": false,
+          "votes": 0
+        },
+        {
+          "id": 2,
+          "text": "color",
+          "correct": true,
+          "votes": 2
+        },
+        {
+          "id": 3,
+          "text": "text-color",
+          "correct": false,
+          "votes": 0
+        },
+        {
+          "id": 4,
+          "text": "Background-color",
+          "correct": false,
+          "votes": 1
+        }
+      ],
+      "timer": 60,
+      "teacherUsername": "teacher_1758836659635",
+      "createdAt": "2025-09-25T21:49:29.625Z",
+      "closed": false
     }
   ]
 }
